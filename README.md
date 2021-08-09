@@ -23,6 +23,12 @@ Skills: Python / Tailwind / JS / HTML / CSS / Godot / Go
 
 #### My Recent Blog Posts @ Ooshimus.com
 <!-- HASHNODE_BLOG:START -->
+- [Console.log() - The Right Way ✅](https://aiyush.hashnode.dev/consolelog-the-right-way-cks4hceqd12oyees1brnm98vp)
+- [Is GPT-3 still King? Introducing GPT-J-6B](https://aiyush.hashnode.dev/is-gpt-3-still-king-introducing-gpt-j-6b-cks1gp5qj0iyzhqs1ckt2dewa)
+- [From GhostCMS to Hashnode](https://aiyush.hashnode.dev/from-ghostcms-to-hashnode-cks05zdef08z5ees1fqdy9650)
+- [Printing COLOUR in IDLE in less than 2 minutes!](https://aiyush.hashnode.dev/printing-colour-in-idle-in-less-than-2-minutes-ckrz2uud400wrhqs1drpe0cpx)
+- [Controlling A Website with a TV Remote!!!](https://aiyush.hashnode.dev/controlling-a-website-with-a-tv-remote-ckrvu2l7500i1lms1aqam5zxo)
+- [Ghost CMS on a Raspberry Pi](https://aiyush.hashnode.dev/ghost-cms-on-a-raspberry-pi-ckrvsiivd08tencs1cz1g4b7b)
 <!-- HASHNODE_BLOG:END -->
 
 
