@@ -23,12 +23,33 @@ Skills: Python / Tailwind / JS / HTML / CSS / Godot / Go
 
 #### My Recent Blog Posts @ Ooshimus.com
 <!-- HASHNODE_BLOG:START -->
-- [Console.log() - The Right Way ✅](https://aiyush.hashnode.dev/consolelog-the-right-way-cks4hceqd12oyees1brnm98vp)
-- [Is GPT-3 still King? Introducing GPT-J-6B](https://aiyush.hashnode.dev/is-gpt-3-still-king-introducing-gpt-j-6b-cks1gp5qj0iyzhqs1ckt2dewa)
-- [From GhostCMS to Hashnode](https://aiyush.hashnode.dev/from-ghostcms-to-hashnode-cks05zdef08z5ees1fqdy9650)
-- [Printing COLOUR in IDLE in less than 2 minutes!](https://aiyush.hashnode.dev/printing-colour-in-idle-in-less-than-2-minutes-ckrz2uud400wrhqs1drpe0cpx)
-- [Controlling A Website with a TV Remote!!!](https://aiyush.hashnode.dev/controlling-a-website-with-a-tv-remote-ckrvu2l7500i1lms1aqam5zxo)
-- [Ghost CMS on a Raspberry Pi](https://aiyush.hashnode.dev/ghost-cms-on-a-raspberry-pi-ckrvsiivd08tencs1cz1g4b7b)
+<table><tr><td><a href="https://aiyush.hashnode.dev/consolelog-the-right-way-cks4hceqd12oyees1brnm98vp" title="Console.log() - The Right Way ✅"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1628504971956/iYZ7nXox1.png" alt="Console.log() - The Right Way ✅"   /></a>
+<a href="https://aiyush.hashnode.dev/consolelog-the-right-way-cks4hceqd12oyees1brnm98vp" title="Console.log() - The Right Way ✅"><strong>Console.log() - The Right Way ✅</strong></a>
+<div><strong>9 Aug 2021</strong> | <strong>9 Aug 2021</strong></div>
+<br/> 👋 Hi
+In this post we are going to learn the hidden secrets behind the console in JavaScript. Logging messages to the console is an awesome way to diagnose / troubleshoot errors in your code. To enter the javascript console Command+Option+J (Mac) or ...</td><td><a href="https://aiyush.hashnode.dev/is-gpt-3-still-king-introducing-gpt-j-6b-cks1gp5qj0iyzhqs1ckt2dewa" title="Is GPT-3 still King? Introducing GPT-J-6B"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1628321885611/ycOeP_8K-.png" alt="Is GPT-3 still King? Introducing GPT-J-6B"   /></a>
+<a href="https://aiyush.hashnode.dev/is-gpt-3-still-king-introducing-gpt-j-6b-cks1gp5qj0iyzhqs1ckt2dewa" title="Is GPT-3 still King? Introducing GPT-J-6B"><strong>Is GPT-3 still King? Introducing GPT-J-6B</strong></a>
+<div><strong>7 Aug 2021</strong> | <strong>7 Aug 2021</strong></div>
+<br/> What are GPT’s ?
+Rather than tell, I’ll show. GPTs (Generative Pre-Trained Transformers) are capable of writing stories, making music, art, writing code (see GitHub CodePilot), translation and much more... 
+What is GPT-J-6B ?
+The project was founded ...</td></tr><tr><td><a href="https://aiyush.hashnode.dev/from-ghostcms-to-hashnode-cks05zdef08z5ees1fqdy9650" title="From GhostCMS to Hashnode"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1628243171545/98QuLX8gy.png" alt="From GhostCMS to Hashnode"   /></a>
+<a href="https://aiyush.hashnode.dev/from-ghostcms-to-hashnode-cks05zdef08z5ees1fqdy9650" title="From GhostCMS to Hashnode"><strong>From GhostCMS to Hashnode</strong></a>
+<div><strong>6 Aug 2021</strong> | <strong>6 Aug 2021</strong></div>
+<br/> Introduction
+I first started blogging not even 2 weeks ago, yet I spent over 5 weeks trying to find the perfect CMS. I started with Github Pages and its integration with CouchCMS, I moved onto the bloated interface that is Wordpress and found comfort...</td><td><a href="https://aiyush.hashnode.dev/printing-colour-in-idle-in-less-than-2-minutes-ckrz2uud400wrhqs1drpe0cpx" title="Printing COLOUR in IDLE in less than 2 minutes!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1628177474276/MpMcQm_m1.png" alt="Printing COLOUR in IDLE in less than 2 minutes!"   /></a>
+<a href="https://aiyush.hashnode.dev/printing-colour-in-idle-in-less-than-2-minutes-ckrz2uud400wrhqs1drpe0cpx" title="Printing COLOUR in IDLE in less than 2 minutes!"><strong>Printing COLOUR in IDLE in less than 2 minutes!</strong></a>
+<div><strong>5 Aug 2021</strong> | <strong>5 Aug 2021</strong></div>
+<br/> Introduction
+IDLE, Integrated Development and Learning Environment, has been bundled together with Python since version 1.5 . Yet, still lacks one fundamental built-in function that all beginners crave… Coloured text.
+If you just want the solution, s...</td></tr><tr><td><a href="https://aiyush.hashnode.dev/controlling-a-website-with-a-tv-remote-ckrvu2l7500i1lms1aqam5zxo" title="Controlling A Website with a TV Remote!!!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1628076449191/hppBErVuW.png" alt="Controlling A Website with a TV Remote!!!"   /></a>
+<a href="https://aiyush.hashnode.dev/controlling-a-website-with-a-tv-remote-ckrvu2l7500i1lms1aqam5zxo" title="Controlling A Website with a TV Remote!!!"><strong>Controlling A Website with a TV Remote!!!</strong></a>
+<div><strong>3 Aug 2021</strong> | <strong>5 Aug 2021</strong></div>
+<br/> This blog post isn’t to act as a tutorial but rather help to demonstrate the power of existing open source frameworks when combined with a little imagination. Looking back on this project I’m sure there are a million ways that this project could have...</td><td><a href="https://aiyush.hashnode.dev/ghost-cms-on-a-raspberry-pi-ckrvsiivd08tencs1cz1g4b7b" title="Ghost CMS on a Raspberry Pi"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1628075603013/mmqVCFiV3.png" alt="Ghost CMS on a Raspberry Pi"   /></a>
+<a href="https://aiyush.hashnode.dev/ghost-cms-on-a-raspberry-pi-ckrvsiivd08tencs1cz1g4b7b" title="Ghost CMS on a Raspberry Pi"><strong>Ghost CMS on a Raspberry Pi</strong></a>
+<div><strong>3 Aug 2021</strong> | <strong>5 Aug 2021</strong></div>
+<br/> By the end of this tutorial you should have a ghost CMS instance setup (you could serve more than one) that you can access anywhere on the internet under a custom (free) domain name with SSL.
+After four days of hard work, and multitudinous reinstalls...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 
