@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Aiyush✨
 #### Multidisciplinary student
+<!---
 ![Multidisciplinary student](https://media-exp1.licdn.com/dms/image/C4E03AQFMTzkn8oBydQ/profile-displayphoto-shrink_400_400/0/1626769087648?e=1634169600&v=beta&t=l7YCrAD5b9wWhhFO5AfI8e7dZWNmIxUY5ABTdC0BEyc)
+--->
 
 I'm a multidisciplinary student whose won a global NASA competition, cycled the length of the UK, has had an audience of over 25K engineers / makers / hobbyists on my custom tool AnglEase on Instructables. I contribute to my school community by creating school magazines (The Word) after becoming proficient in Indesign, creating unique school websites and raising money for charity- over £2K. As well as becoming an anti-bullying ambassador for the Diana Award, school council member and as seen on interviews at BBC North-West and Manchester Radio. 
 
