@@ -22,8 +22,9 @@ Skills: Python / Tailwind / JS / HTML / CSS / Godot / Go
 - ⚡ Fun fact: ... I was a winner in a global NASA competition in 2020!
 
 #### My Recent Blog Posts @ Ooshimus.com
-<!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+<!--START_SECTION:feed-->
+...
+<!--END_SECTION:feed-->
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Aiyush-g)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](ooshimus.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aiyush-gupta-2006/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Aiyush.gupta/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](ooshimus.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeindesign.svg' alt='adobeindesign' height='40'>](https://www.linkedin.com/in/aiyush-gupta-2006/)  
