@@ -22,13 +22,8 @@ Skills: Python / Tailwind / JS / HTML / CSS / Godot / Go
 - ⚡ Fun fact: ... I was a winner in a global NASA competition in 2020!
 
 #### My Recent Blog Posts @ Ooshimus.com
-<!--START_SECTION:feed-->
-* [Console.log() - The Right Way ✅](https:&#x2F;&#x2F;ooshimus.com&#x2F;consolelog-the-right-way)
-* [Is GPT-3 still King? Introducing GPT-J-6B](https:&#x2F;&#x2F;ooshimus.com&#x2F;is-gpt-3-still-king-introducing-gpt-j-6b)
-* [From GhostCMS to Hashnode](https:&#x2F;&#x2F;ooshimus.com&#x2F;from-ghostcms-to-hashnode)
-* [Printing COLOUR in IDLE in less than 2 minutes!](https:&#x2F;&#x2F;ooshimus.com&#x2F;printing-colour-in-idle-in-less-than-2-minutes)
-* [Controlling A Website with a TV Remote!!!](https:&#x2F;&#x2F;ooshimus.com&#x2F;controlling-a-website-with-a-tv-remote)
-<!--END_SECTION:feed-->
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Aiyush-g)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](ooshimus.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aiyush-gupta-2006/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Aiyush.gupta/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](ooshimus.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeindesign.svg' alt='adobeindesign' height='40'>](https://www.linkedin.com/in/aiyush-gupta-2006/)  
