@@ -18,5 +18,6 @@ jobs:
         with:
           USERNAME: 'Aiyush' # Hashnode Username
           COUNT: 10 # MAX Visisble
+          STYLE: "blog-grid"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
