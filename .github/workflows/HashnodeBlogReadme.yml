@@ -2,7 +2,7 @@
 name: HashnodeBlogReadme
 on:
   schedule:
-    # Runs every day at 9am UTC
+    # Runs every 25th minute
     - cron: '25 * * * *'
 
 jobs:
