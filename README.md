@@ -23,8 +23,8 @@ Skills: Python / Tailwind / JS / HTML / CSS / Godot / Go
 
 #### My Recent Blog Posts @ Ooshimus.com
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><a href="https://aiyush.hashnode.dev/introducing-pyooshi-powerful-experimental-code-generator-cks5pvx7v05ysfjs14rsg7q4n" title="Introducing PyOoshi – Powerful Experimental Code Generator"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1628578954484/TxqGTfLNj.png" alt="Introducing PyOoshi – Powerful Experimental Code Generator"   /></a>
-<a href="https://aiyush.hashnode.dev/introducing-pyooshi-powerful-experimental-code-generator-cks5pvx7v05ysfjs14rsg7q4n" title="Introducing PyOoshi – Powerful Experimental Code Generator"><strong>Introducing PyOoshi – Powerful Experimental Code Generator</strong></a>
+<table><tr><td><a href="https://aiyush.hashnode.dev/i-remade-github-copilot-pyooshi-browser-based-alternative-cks5pvx7v05ysfjs14rsg7q4n" title="I Remade Github Copilot - PyOoshi Browser Based Alternative"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1628600522913/g1L56k3qA.png" alt="I Remade Github Copilot - PyOoshi Browser Based Alternative"   /></a>
+<a href="https://aiyush.hashnode.dev/i-remade-github-copilot-pyooshi-browser-based-alternative-cks5pvx7v05ysfjs14rsg7q4n" title="I Remade Github Copilot - PyOoshi Browser Based Alternative"><strong>I Remade Github Copilot - PyOoshi Browser Based Alternative</strong></a>
 <div><strong>10 Aug 2021</strong> | <strong>10 Aug 2021</strong></div>
 <br/> Hello 👋
 Its’ finally here 🎉, I’m incredibly excited to announce my first web-dev project – PyOoshi. PyOoshi came after a week of hard work learning HTML, CSS and JS from scratch leading to my first project. After trial and error, organisation and l...</td><td><a href="https://aiyush.hashnode.dev/consolelog-the-right-way-cks4hceqd12oyees1brnm98vp" title="Console.log() - The Right Way ✅"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1628504971956/iYZ7nXox1.png" alt="Console.log() - The Right Way ✅"   /></a>
