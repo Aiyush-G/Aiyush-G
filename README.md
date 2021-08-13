@@ -19,7 +19,7 @@ Skills: Python / Tailwind / JS / HTML / CSS / Godot / Go
 - 💬 Ask me about ... Godot / Python / Indesign / Blogging
 - 📫 How to reach me: ... linkedin (below)
 - 😄 Pronouns: ... he / him
-- ⚡ Fun fact: ... I was a winner in a global NASA competition in 2020!
+- ⚡ Fun fact: ... I was in the top 2.5% in OpenAIs Codex Competition 2021. I was a winner in a global NASA competition in 2020!
 
 #### My Recent Blog Posts @ Ooshimus.com
 <!-- HASHNODE_BLOG:START -->
